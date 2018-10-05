@@ -5,7 +5,7 @@
 </head>
 <body>
 	<table>
-		<form action="koneksidb.php" method="post">
+		<form action="submit.php" method="post">
 			<tr>
 				<td>Nama</td>
 				<td> : </td>
